@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue" />
-<img src="https://img.shields.io/badge/javascript-FFD43B.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python-FFD43B.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/flutter-45B6FE.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/bootstrap-563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
