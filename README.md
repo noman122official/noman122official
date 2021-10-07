@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noman122official&layout=compact&theme=dark)](https://github.com/RohiniRG/github-readme-stats)
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=RohiniRG&label=PROFILE+VIEWS&style=flat-square&color=blue")
+   <img src="https://komarev.com/ghpvc/?username=noman122official&label=PROFILE+VIEWS&style=flat-square&color=blue")
 </p>  
      
 
