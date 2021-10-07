@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! I'm Naman Das</h1>
 
 <img class="fit-picture" align="right"
-     width="400" height="400"
+     width="300" height="300"
      src="https://miro.medium.com/max/4800/0*nIrVMggPB7pe6dLJ.gif">
 <h1 align="center">About me! </h1>
 
