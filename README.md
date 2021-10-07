@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 <br />
 <br>
 
+
+
+
+
+
+
 <h1 align="center">Tech Stack </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
