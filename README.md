@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi there! I'm Naman Das</h1>
 
 <img class="fit-picture" align="right"
@@ -12,9 +13,9 @@ Here are some ideas to get you started:
 
 <h3>
   
--  I’m currently a MERN Stack Intern at Skilzen
-- I’m currently learning Web Development, Cloud Services, Data Engineering
-- I’m looking to collaborate on WebDev, React Projects and anything Js!
+-  I’m currently a Java Developer at Oracle
+- I’m currently learning Cloud Services, Data Engineering, Microservices
+- I’m looking to collaborate on anything Java or JS
 - Ask me about anything JS!  
 - How to reach me: On any of my socials
 </h3>
@@ -46,7 +47,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/bootstrap-563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sqlite-20639B.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/flask-FFFFFF.svg?&style=for-the-badge&logo=flask&logoColor=black" />&nbsp;&nbsp;&nbsp;
-  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>     
 
 <br />
@@ -83,5 +84,3 @@ Here are some ideas to get you started:
 [gmail]: namandas.123@gmail.com
 
 <br /> 
-
-
